@@ -1,7 +1,7 @@
 
 # Projeto do 5 semestre.
 Sistema de gerenciamento de ativos
-<h1>Tecnologias utilizadas</h1>
+## :hammer_and_wrench: Features 
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
